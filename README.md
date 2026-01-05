@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on quiz application using React<br><br>🌱 I’m currently learning using source control for all my personal projects<br><br>👨‍💻 All of my projects are available at https://github.com/TanishaDutta-106<br><br>💬 Ask me about Criminal Minds<br><br>📫 How to reach me tanisha77@usf.edu<br><br>⚡ Fun fact I think I am great at being sarcastic
+🔭 I’m currently working on quiz application using React<br><br>🌱 I’m currently learning using source control for all my personal projects<br><br>👨‍💻 All of my projects are available at https://github.com/TanishaDutta-106<br><br>💬 Ask me about Criminal Minds<br><br>📫 How to reach me tanishadutta0911@gmail.com<br><br>⚡ Fun fact I think I am great at being sarcastic
 
 
 ## 🌐 Socials:
