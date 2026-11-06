@@ -3,7 +3,7 @@
 Backend & Systems Engineer focused on distributed systems, backend infrastructure, event-driven architecture, and high-performance applications.
 
 - 🎓 Computer Engineering @ University of South Florida
-- 💼 IT Solutions Delivery Intern at FCCI Insurance
+- 💼 Associate Software Developer
 - ☁️ Interested in Backend Engineering, Distributed Systems, Infrastructure, and Quantitative Development
 - 🚀 Building systems with Go, Python, SQL, Redis, FastAPI, Docker, and cloud infrastructure
 - 📍 Based in Florida
@@ -70,7 +70,7 @@ Python • Go • Java • SQL • C++ • C • JavaScript
 FastAPI • Redis • PostgreSQL • Docker • Terraform • GitHub Actions • AWS • Azure
 
 ### Tools & Platforms
-Git • Linux • Jira • Eclipse • Aqua Data Studio • Vivado HLS
+Git • Linux •  Vivado HLS
 
 ### Concepts
 Distributed Systems • Event-Driven Architecture • REST APIs • CI/CD • Microservices • Concurrency • System Design • Data Structures & Algorithms
